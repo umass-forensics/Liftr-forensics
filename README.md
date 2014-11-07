@@ -1,4 +1,7 @@
-2014-code-liftr
+Liftr
 ===============
 
-Saksham and Robert code for the liftr mobile phone triage tool
+Liftr improves forensic triage tools by incorporating investigator feedback.
+
+You can read the original SPSM paper
+[here](http://forensics.umass.edu/publications.php?q=Varma:2014).
